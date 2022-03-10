@@ -1,16 +1,16 @@
-### Hi there 👋
+#Projects
+--------
+##JBStrike
+- A Simple custom C2 server currently in development, desined to be purely the bare minimum to be able to function as a C2
+- Introduced me to concepts such as: ..., ...
 
-<!--
-**0xjbb/0xjbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##HTTP
+- A Simple HTTP server I built to allow me to quickly spin up a HTTP server for quick and easy file uploads or downloads whilst working in a lab enviroment.
 
-Here are some ideas to get you started:
+##AMSI-Patch
+- An AMSI (AmsiScanBuffer) bypass.
+- Introduced me to concepts such as: API Hooking, Memory Patching.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##TryHackMe Content Development
+- Created a Challenge room for TryHackMe called Jeff 
