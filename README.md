@@ -1,5 +1,5 @@
 ## Projects
---------
+
 ### JBStrike
 - A simple custom C++ and Go C2 server currently in development, designed to be purely the bare minimum to be able to function as a C2. 
 
