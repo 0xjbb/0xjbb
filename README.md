@@ -16,5 +16,3 @@
 - Created purely to bypass defender inside the HTB ProLab Cybernetics.
 - Introduced me to concepts such as: Process Injection
 
-### TryHackMe Content Development
-- Created a Challenge room for TryHackMe called Jeff (https://tryhackme.com/room/jeff). I created this when first starting in cyber security, creating the room enabled me to improve my overall linux abilities.
