@@ -5,7 +5,7 @@
 - Still W.I.P
 
 ### TaskPwn
-A python script to remotely enumerate scheduled tasks using (local) Administrator priviledges. It will enumerate any scheduled and provide the username if it's a domain user and the users groups.
+A python script to remotely enumerate scheduled tasks using (local) Administrator privileges. It will enumerate any scheduled and provide the username if it's a domain user and the users groups.
 
 ### HTTP
 - Simple HTTP(s) File server with upload support for pen-testing CTFs/Labs. 
