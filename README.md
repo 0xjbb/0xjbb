@@ -1,9 +1,5 @@
 ## Projects
 
-### JBStrike
-- A simple custom C++ and Go C2 server currently in development, designed to be purely the bare minimum to be able to function as a C2. 
-- Still W.I.P
-
 ### TaskPwn
 A python script to remotely enumerate scheduled tasks using (local) Administrator privileges. It will enumerate any scheduled and provide the username if it's a domain user and the users groups.
 
