@@ -5,3 +5,10 @@ Proof of concept tool that monitors kernel events (image loads, process creation
 
 ### cet-spoofing-detection
 This tool is a proof of concept aimed to detect stackspoofing within CET processes. It does this by comparing the shadow stack to the userstack and looks for missing frames. Specifically targeting the modification of unwind data. 
+
+### SuspiciousThreads
+A Poc attempt at hunting suspicious thread creation events using ETW only. it currently identifies
+
+- Unbacked Thread creation calls
+- Unbacked StartAddress
+- JOP based StartAddress
