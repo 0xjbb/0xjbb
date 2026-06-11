@@ -12,3 +12,7 @@ A Poc attempt at hunting suspicious thread creation events using ETW only. it cu
 - Unbacked Thread creation calls
 - Unbacked StartAddress
 - JOP based StartAddress
+
+### ModuleStomped
+
+Proof of concept to detect module stomping detection by looking for modified .pdata sections.
